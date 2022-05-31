@@ -1,0 +1,64 @@
+﻿body {
+    background-color: #FFE5CC;
+}
+
+.input-parent {
+    margin-left: 41%;
+}
+
+.input-label {
+
+}
+
+.submit-button {
+    width: 100px;
+    height: 40px;
+    border: 2px solid black;
+    font-weight: bold;
+    font-size: 20px;
+    text-align: center;
+    margin-top: 20px;
+}
+
+.warning-label {
+    font-weight: bold;
+    color: red;
+    margin-left: 15px;
+    margin-top: 5px;
+}
+
+.input-box {
+    width: 250px;
+    height: 25px;
+    font-size: 20px;
+    margin-bottom: 15px;
+}
+
+.input-short {
+    width: 40px;
+    height: 25px;
+    font-size: 20px;
+    margin-bottom: 15px;
+}
+
+.input-medium {
+    width: 50px;
+    height: 25px;
+    font-size: 20px;
+    margin-bottom: 15px;
+}
+
+.input-age {
+    width: 30px;
+}
+
+.warning-label {
+    color: red;
+    font-weight: bold;
+}
+
+.input-date {
+    margin-left: 5px;
+    margin-right: 10px;
+    height: 25px;
+}

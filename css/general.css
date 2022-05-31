@@ -1,0 +1,46 @@
+﻿body {
+    background-color: #FFE5CC;
+}
+
+.center-title {
+    margin-top: 100px;
+    font-weight: bold;
+    font-size: 35px;
+    text-align: center;
+}
+
+.choice-button {
+    width: 100px;
+    height: 40px;
+    border: none;
+    font-weight: bold;
+    font-size: 20px;
+    text-align: center;
+    
+}
+
+.choice-parent {
+    display: flex;
+    margin-top: 50px;
+
+}
+
+.button-parent {
+   margin-right: 50px;
+}
+
+.input-parent {
+    margin-right: 50px;
+    height:200px;
+}
+
+.input-box {
+    height: 25px;
+    width: 200px;
+    font-size: 18px;   
+}
+
+.warning-label {
+    font-weight: bold;
+    color: red;
+}
